@@ -8,6 +8,7 @@ need use swagger or something
 
 ## Running the app docker-compose
 
+## spa on 4200 and service on 5000 ports
 ```bash
 # build containers
 $ docker-compose build
